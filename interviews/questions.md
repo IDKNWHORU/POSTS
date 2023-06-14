@@ -7,3 +7,5 @@
 - 리액트 가상돔에 대해 설명해주세요.
 - useMemo
 - undefined와 null의 차이
+- Local Storage vs Session Storage vs Cookie
+- FrontEnd에서 BackEnd로 API 요청할 때 CORS 응답 헤더의 정보가 `Access-Control-Allow-Origin: "백엔드 주소"`와 `Access-Control-Allow-Credentials: true` 만 있을 경우 에러가 안날까?
