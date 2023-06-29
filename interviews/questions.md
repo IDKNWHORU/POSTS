@@ -9,3 +9,11 @@
 - undefined와 null의 차이
 - Local Storage vs Session Storage vs Cookie
 - FrontEnd에서 BackEnd로 API 요청할 때 CORS 응답 헤더의 정보가 `Access-Control-Allow-Origin: "백엔드 주소"`와 `Access-Control-Allow-Credentials: true` 만 있을 경우 에러가 안날까?
+- 해시맵과 맵의 차이
+- 함수가 콜스택에 올라가는 시점은 언제인가요?
+- 콜 스택에서 스택 오버 플로를 발생시킬 수 있는 방법은?
+- const obj = {a: 1, b:2}; obj.a에 대한 prototype과 불변(immutable)에 대한 설명
+- javascript는 call by value 일까 call by reference일까?
+- const let var의 차이점
+- react가 상태 변경이 일어났고 가상 돔과 실제 돔을 비교해서 태그를 생성할 때 어떻게 변경점을 관리할까?
+- 함수 시그니처: 2개의 숫자 매개 변수를 받음, 3초 뒤 매개 변수를 더한 값을 리턴하는 함수를 만드시오.(코딩 문제)
