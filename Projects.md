@@ -14,7 +14,7 @@
 ## 교육 자료 제작 및 수업
 - [Collegium BOS](https://github.com/Ludium-Official/collegium_BOS) (2023-07~2023-09): 300만원
 - [ICP online hacker](https://github.com/Ludium-Official/icp) (2024-05): 수익 없음
-- [Neo](https://github.com/IDKNWHORU/neo): 수익 없음
+- [Neo](https://github.com/IDKNWHORU/neo) (2023-08-17~2023-08-27): 수익 없음
 
 ## 데모 서비스
 - [Request Network](https://github.com/IDKNWHORU/request-network) (2024-04) : 수익 없음
